@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrianov Roman</h1>
-<div align="center"><img src="Logo.jpg" style="border-radius: 50%;"></div>
+<div align="center"><img src="Logo2.jpg" style="width: 300px; border-radius: 50%;"></div>
 <h3 align="center">A passionate frontend developer</h3>
 
 ---
