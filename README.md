@@ -8,7 +8,7 @@
 
 - 📄 My name is Andrianov Roman!
 
-- ⚡ I'm 21 years old, I'm a frontend developer!
+- ⚡ I'm 22 years old, I'm a frontend developer!
 
 - 👨‍💻 I've been doing frontend for 1 year!
 
