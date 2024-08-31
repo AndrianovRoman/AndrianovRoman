@@ -10,7 +10,7 @@
 
 - ⚡ I'm 22 years old, I'm a frontend developer!
 
-- 👨‍💻 I've been doing frontend for 1 year!
+- 👨‍💻 I've been doing frontend for 2 years now!
 
 - 🤝 I develop turnkey websites using layouts from Photoshop and Figma!
 
